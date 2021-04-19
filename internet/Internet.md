@@ -14,7 +14,7 @@
 5 응용 계층 :  DNS, TLS/SSL, FTP, HTTP, IMAP, IRC, SMTP, SSH, 텔넷, 비트토렌트, RTP …<br>
 
 
-## 패킷 교환방식(Packet_Swithing)
+## 📬패킷 교환방식(Packet_Swithing)
 
 <img src = "./packet_switching.png" width ="70%">
 
