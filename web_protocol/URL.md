@@ -17,3 +17,6 @@ URL 의 일반적인 형식은
     http://www.netbook.cs.purdue.edu/toc/toc01.htm
     
 위 URL 은 http 프로토콜을 이용하고, www.netbook.cs.purdue.edu 의 이름을 갖는 컴퓨터(서버)에서 toc/toc01.htm 파일을 접근한다.
+
+## 활용
+현실에서 URL은 자우너의 위치라는 의미 보다는 인터넷 주소라는 의미를 갖는다.
