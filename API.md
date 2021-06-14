@@ -8,24 +8,6 @@
 
 <br>
 
-# API 종류
-
-## 😴REST API
-REST(Representational State Transfer)는 네트워그를 통해서 컴퓨터끼리 통신할 수 있게 해주는 아키텍쳐 스타일 이다.
-
-
-
-## 🧼SOAP API
-SOAP(Simple ObjectAccess Protocol)는 그 자체로 프로토콜이며, 보안이나 메시지 전송 등에 있어서 REST보다 더 많은 표준들이 정해져있기 때문에 조금 더 복잡하다.
-
-<br>
-
-## REST vs SOAP
-<img src = "REST vs SOAP.png" width = "80%" height = "50%">
-
-
-<br>
-
 # 👍🏻API의 장점 
 * 내가 가져다 쓰려는 API의 기능을 어떻게 구현하는지 몰라도 되고 그저 API가 제공하는 걸 사용하면 된다.<br>
 즉 서비스 개발 시간을 단축 할 수 있다
@@ -33,5 +15,69 @@ SOAP(Simple ObjectAccess Protocol)는 그 자체로 프로토콜이며, 보안�
 * API는 변화를 미리 예상하는데 도움을 준다. API를 이용하면 데이터 이동이 간편하여 유연한 서비스를 만들 수 있다.
 
 # 👎🏻API의 단점
-* API가 해킹을 당하게 되면 모든 어플리케이션과 시스템이 무너질 수 있다.
-* 
+* API가 해킹을 당하게 되면 모든 어플리케이션과 시스템이 무너질 수 있다. 
+
+<br>
+
+
+# API 종류
+
+## 😴REST API
+REST(REpresentational State Transfer)는  월드 와이드 웹과 같은 분산 하이퍼미디어 시스템을 위한 소프트웨어 아키텍처의 한 형식이다(표준을 정의하지 않는 아키텍처 스타일).
+
+<br>
+
+### 👍🏻REST API의 장점
+- 플랫폼, 프로그래밍에 독립적이다.
+
+- 가볍고 빠르고 쉽다
+
+- SOAP보다 개발하기가 단순하므로 학습곡선이 작고 도구가 거의 필요없다
+
+<br>
+
+### 👎🏻REST API의 단점
+
+- HTTP 프로토콜에서만 사용가능 
+  
+- point to point 통신 모델을 가정하므로 둘 이상으로 상호작용하는 분산환경에 비적합
+
+- 보안, 정책 등에 대한 표준이 없다
+
+<br>
+
+## 🧼SOAP API
+SOAP(Simple ObjectAccess Protocol)는 일반적으로 널리 알려진 HTTP, HTTPS, SMTP 등을 통해 XML 기반의 메시지를 컴퓨터 네트워크 상에서 교환하는 프로토콜, 보안이나 메시지 전송 등에 있어서 REST보다 더 많은 표준들이 정해져있기 때문에 조금 더 복잡하다.
+
+<br>
+
+### 👍🏻SOAP API의 장점
+* 표준화 되어 있는 기반
+  
+* 프록시나, 방화벽에 구애 받지 않는다
+  
+* 플랫폼과 프로그래밍에 독립적이다 분산환경에 적합하다
+  
+* 웹 서비스를 제공하기 위한 표준(WSDL, UDDI)이 잘 정립되어 있다.
+  
+<br>
+
+### 👎🏻 SOAP API의 단점
+* 너무 어렵다, 무겁다, 느리다
+  
+* 구현하기 어렵고 기계어에 가까운 문제점
+  
+* 복잡한 구조로 인하 오버헤드가 있으며 이는 SOAP의 확장을 저해하고 있다
+  
+* REST에 비해 상대적으로 무겁고 느리다
+  
+* 개발 난이도가 높아 개발 환경의 지원이 필요하다.
+
+<br>
+
+## REST vs SOAP
+<img src = "REST vs SOAP.png" width = "90%" height = "50%">
+
+
+<br>
+
