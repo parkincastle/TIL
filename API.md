@@ -18,6 +18,11 @@ REST(Representational State Transfer)는 네트워그를 통해서 컴퓨터끼�
 ## 🧼SOAP API
 SOAP(Simple ObjectAccess Protocol)는 그 자체로 프로토콜이며, 보안이나 메시지 전송 등에 있어서 REST보다 더 많은 표준들이 정해져있기 때문에 조금 더 복잡하다.
 
+<br>
+
+## REST vs SOAP
+<img src = "REST vs SOAP.png" width = "80%" height = "50%">
+
 
 <br>
 
