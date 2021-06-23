@@ -1,5 +1,8 @@
 # 🐱‍🏍Node.js 란?
-<center><img src = "nodejs.png" width = "70%" height = "50%"></center>
+
+<div align = "center">
+    <img src = "nodejs.png" width = "70%" height = "50%">
+</div>
 
 Node.js는 Chrome V8 JavaScript 엔진으로 빌드된 서버사이드 자바스크립트이며 **런타임** 입니다. 
 > 런타임이란 특정 언어로 만든 프로그램을 실행할 수 있는 환경
@@ -41,7 +44,9 @@ Libuv 라이브러리는 노드의 특성인 이벤트 기반, 논 블로킹 I/O
 <br>
 노드는 이벤트가 종료될 때까지 이벤트 처리를 위한 작업을 반복하므로 루프(loop)라고 부른다.
 
-<center><img src = "nodejs-event_loop.png" width = "75%" height = "50%"></center>
+<div align = "center">
+    <img src = "nodejs-event_loop.png" width = "75%" height = "50%">
+</div>
 
 ## 🚫논 블로킹 I/O
 이벤트 루프를 잘 활용하면 오래 걸리는 작업을 효율적으로 처리할 수 있다. 작업에는 두 가지 종류가 있는데 동시에 실행될 수 있는 작업과 동시에 실행될 수 없는 작업이다. 특히 파일 시스템 접근, 네트워크를 통한 요청 작업은 I/O의 일종이며, 이러한 작엄을 할 때 노드는 논 블로킹 방식으로 처리한다.
