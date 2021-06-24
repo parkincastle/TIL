@@ -132,3 +132,4 @@ Express.JS  | △ 플로그인 지원
 Koa.JS      | △ 플러그인 지원
 
 Fastify     | ○ JSON Schema에 의한 검증
+
