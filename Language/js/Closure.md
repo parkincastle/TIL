@@ -9,10 +9,10 @@
 var num = 1;
 
 function foo() {
-	var num = 2;
+	var num = 2;  
 	
 	function bar() {
-		console.log(num);
+		console.log(num); 
 	}
 	return bar;
 }
