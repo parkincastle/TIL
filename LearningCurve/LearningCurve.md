@@ -12,28 +12,28 @@
 <br>
 
 C++<br>
-<img src = "cpp.png" width = "70%">
+<img src = "img/cpp.png" width = "70%">
 <br>
 JAVA
 <br>
-<img src = "java.png" width = "70%">
+<img src = "img/java.png" width = "70%">
 <br>
 JAVASCRIPT
 <br>
-<img src = "javascript.png" width = "70%">
+<img src = "img/javascript.png" width = "70%">
 <br>
 PHP
 <br>
-<img src = "php.png" width = "70%">
+<img src = "img/php.png" width = "70%">
 <br>
 PYTHON
 <br>
-<img src = "python.png" width = "70%">
+<img src = "img/python.png" width = "70%">
 <br>
 LISP
 <br>
-<img src = "lisp.png" width = "70%">
+<img src = "img/lisp.png" width = "70%">
 <br>
 HASKELL
 <br>
-<img src = "haskell.png" width = "70%">
+<img src = "img/haskell.png" width = "70%">
