@@ -76,7 +76,7 @@ SOAP(Simple ObjectAccess Protocol)는 일반적으로 널리 알려진 HTTP, HTT
 <br>
 
 ## REST vs SOAP
-<img src = "REST vs SOAP.png" width = "90%" height = "50%">
+<img src = "img/REST vs SOAP.png" width = "90%" height = "50%">
 
 
 <br>

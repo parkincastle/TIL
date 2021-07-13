@@ -5,7 +5,7 @@
  
 인터넷 프로토클 스택은 OSI 7계층과 달리, 4계층 (또는 5계층)으로 구분 합니다
 
-<img src = "./OSI7_TCP／IP.png" width = "50%">
+<img src = "../img/OSI7_TCP／IP.png" width = "50%">
 
 1,2 네트워크 인터페이스 계층 :  Ethernet, Wi-Fi, 토큰링, PPP, 프레임 릴레이, SMDS …<br>
 3 인터넷 계층 IP (IPv4, IPv6)<br>
@@ -18,7 +18,7 @@
 
 ## 📬패킷 교환방식(Packet_Swithing)
 
-<img src = "./packet_switching.png" width ="70%">
+<img src = "../img/packet_switching.png" width ="70%">
 > 
 
 TCP/IP환경에서 데이터는 패킷이라는 단위로 교환됩니다.

@@ -1,6 +1,10 @@
 # NestJS 란?
 <br>
-<dir align = "center"><img src = "nestjs.png" width = "75%" height = "50%"></dir>
+
+<dir align = "center">
+    <img src = "../../img/nestjs.png" width = "75%" height = "50%">
+</dir>
+
 <br>
 NestJS는 node.js의 프레임워크 중 하나로 서버 측 애플리케이션 을 구축할 수 있다.
 <br>

@@ -23,7 +23,7 @@ TCP의 장점은 복잡해서 신뢰성이 높다는 점이다.
 # TCP/IP
 TCP/IP는 5계층으로 물리 계층, 데이터 링크 계층, 네트워크 계층, 전송 계층, 어플리케이션 계층 으로 나누어져 있다.
 
-<img src = "./TCP／IP_layer.png" width = "70%" heigth = "50%">
+<img src = "../img/TCP／IP_layer.png" width = "70%" heigth = "50%">
 
 ### 물리 계층 (Physical layer)
 물리 계층은 말 그대로 컴퓨터를 서로 연결하는 물리적 장치를 의미한다. 물리계층에는 메트워크 케이블의 샤양(specification)뿐만 아니라 데이터가 전송되는 방식도 포함된다.
@@ -46,7 +46,7 @@ TCP/IP는 5계층으로 물리 계층, 데이터 링크 계층, 네트워크 계
 
 # TCP/IP 통신 흐름
 
-<img src = "./tcp／ip connection.png" width = "75%">
+<img src = "../img/tcp／ip connection.png" width = "75%">
 
 TCP/IP로 통신할 때 계층을 순서대로 거쳐 상대와 통신한다. 송신하는 측은 애플리케이션 계층에서부터 내려가고, 수신하는 측은 네트워크 계층부터 올라간다.
 
