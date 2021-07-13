@@ -1,7 +1,7 @@
 # 🐱‍🏍Node.js 란?
 
 <div align = "center">
-    <img src = "img/nodejs.png" width = "70%" height = "50%">
+    <img src = "../../img/nodejs.png" width = "70%" height = "50%">
 </div>
 
 Node.js는 Chrome V8 JavaScript 엔진으로 빌드된 서버사이드 자바스크립트이며 **런타임** 입니다. 
@@ -45,7 +45,7 @@ Libuv 라이브러리는 노드의 특성인 이벤트 기반, 논 블로킹 I/O
 노드는 이벤트가 종료될 때까지 이벤트 처리를 위한 작업을 반복하므로 루프(loop)라고 부른다.
 
 <div align = "center">
-    <img src = "img/nodejs-event_loop.png" width = "75%" height = "50%">
+    <img src = "../../img/nodejs-event_loop.png" width = "75%" height = "50%">
 </div>
 
 ## 🚫논 블로킹 I/O

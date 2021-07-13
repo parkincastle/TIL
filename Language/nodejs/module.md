@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-    <img src = "img/module.png" width = "40%" >
+    <img src = "../../img/module.png" width = "40%" >
 </div>
 
 <br>

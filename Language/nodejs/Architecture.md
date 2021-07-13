@@ -1,6 +1,6 @@
 # Node.js의 아키텍쳐
 
-<img src = "img/oldArchitecture.png" whidth = "70%">
+<img src = "../../img/oldArchitecture.png" whidth = "70%">
 
 <br>
 
@@ -14,7 +14,7 @@ V8 엔진 구조는 개발자들이 각자의 목적에 맞게 만든 노드 프
 
 <br>
 
-<img src = "img/newArchitecture.png" width = "70%">
+<img src = "../../img/newArchitecture.png" width = "70%">
 
 <br><br>
 
