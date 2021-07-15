@@ -31,5 +31,5 @@ TIL은 Today I Learned의 약자로
  - [TCP/UDP](Web_Protocol/TCPvsUDP.md)
  - [URL](Web_Protocol/URL.md)
 
-## **📚API**
+## **📚 알면 좋은 것들**
  - [API](API.md)
