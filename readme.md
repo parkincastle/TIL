@@ -28,7 +28,7 @@ TIL은 Today I Learned의 약자로
 
 ## **📋Web Protocol**
  - [HTTP](Web_Protocol\HTTP.md)
- - [TCP/UDP](Web_Protocol\TCPvsUDP.md)
+ - [TCP／UDP](Web_Protocol\TCPvsUDP.md)
  - [URL](Web_Protocol\URL.md)
 
 ## **📚 알면 좋은 것들**
