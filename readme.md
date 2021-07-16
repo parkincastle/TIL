@@ -1,4 +1,4 @@
-# 👩‍💻Today I Learned
+# 👨‍💻Today I Learned
 TIL은 Today I Learned의 약자로
 
 내가 오늘 하루동안 공부하거나 배운걸 마크다운으로 정리해서 올리는 것입니다!
@@ -27,9 +27,9 @@ TIL은 Today I Learned의 약자로
  - [Learning Curve](LearningCurve/LearningCurve.md)
 
 ## **📋Web Protocol**
- - [HTTP](Web_Protocol\HTTP.md)
- - [TCP/UDP](Web_Protocol\TCPvsUDP.md)
- - [URL](Web_Protocol\URL.md)
+ - [HTTP](Web_Protocol/HTTP.md)
+ - [TCP/UDP](Web_Protocol/TCPvsUDP.md)
+ - [URL](Web_Protocol/URL.md)
 
-## **📚 알면 좋은 것들**
+## **📚API**
  - [API](API.md)
