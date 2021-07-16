@@ -27,8 +27,8 @@ TIL은 Today I Learned의 약자로
  - [Learning Curve](LearningCurve/LearningCurve.md)
 
 ## **📋Web Protocol**
- - [HTTP](Web_protocol/HTTP.md)
- - [TCP/UDP](Web_protocol/TCPvsUDP.md)
+ - [HTTP](web_protocol/HTTP.md)
+ - [TCP/UDP](web_protocol/TCPvsUDP.md)
  - [URL](Web_protocol/URL.md)
 
 ## **📚API**
