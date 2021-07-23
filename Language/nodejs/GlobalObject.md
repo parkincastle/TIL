@@ -149,7 +149,3 @@ util.log('message');
  - fs.readFileSync(filename, [options]) : filename의 파일을 [options]의 방식으로 읽은 후 문자열을 반환한다.(동기적)
  - fs.writeFile(filename, data, [options], callback) : filename의 파일에 [options]의 방식으로 data 내용을 쓴 후 callback 함수를 호출한다.(비동기적) 
  - fs.writeFileSync(filename, data, [options]) : filename의 파일에 [options]의 방식으로 data 내용을 쓴다.(동기적)
-
-
-
-
