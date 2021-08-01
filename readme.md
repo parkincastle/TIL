@@ -5,7 +5,7 @@ TIL은 Today I Learned의 약자로
 
 ## **🌏Internet**
  - [Internet](internet/Internet.md)
- - [TCP/IP](internet/TCP／IP.md)
+ - [Network](Internet/NetWork.md)
 
 
 ## **🧐Language**
@@ -33,6 +33,7 @@ TIL은 Today I Learned의 약자로
 
 ## **📋Web Protocol**
  - [HTTP](web_protocol/HTTP.md)
+ - [TCP/IP](internet/TCP／IP.md)
  - [TCP/UDP](web_protocol/TCPvsUDP.md)
  - [URL](Web_protocol/URL.md)
 
