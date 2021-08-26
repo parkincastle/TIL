@@ -44,13 +44,13 @@ TIL은 Today I Learned의 약자로
 
 ### **🤑Node.JS**
  - [NodeJS](Language/nodejs/nodejs.md)
- - [Architecture](Language/nodejs/Architecture.md)
  - [이벤트기반 비동기 방식](Language/nodejs/event-basedAsynchronous.md)
  - [Module](Language/nodejs/module.md)
  - [NodeObjects](Language/nodejs/NodeObjects.md)
- - [EventModule](Language/nodejs/EventModule.md)
  - [OSModule](Language/nodejs/OSModule.md)
- - [Override](Language/nodejs/Override.md)
  - [UtilityModule](Language/nodejs/UtilityModule.md)
  - [FileSystmeModule](Language/nodejs/FileSystmeModule.md)
+ - [EventModule](Language/nodejs/EventModule.md)
+ - [Architecture](Language/nodejs/Architecture.md)
+ - [Override](Language/nodejs/Override.md)
 
